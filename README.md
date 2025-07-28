@@ -1,8 +1,17 @@
-ToDo List App
-This is a simple ToDo List application built with HTML, CSS, and vanilla JavaScript. It allows users to add, edit, mark as done, and remove tasks. Tasks are saved locally using localStorage so they persist even after the page is refreshed.
+# To-Do List App
+A simple, clean, and responsive to-do list application built with JavaScript, HTML, and CSS.
 
-FEATURES
-1. Add Task: Enter a task in the input box and click "Add Task" or press Enter to add it to the list.
-2. Edit Task: Click the edit icon next to a task to edit its text.
-3. Mark as Done: Click the circle icon next to a task to mark it as done. Click again to undo.
-4. Remove Task: Click the trash icon to remove a task from the list.
+## 🔧 Technologies Used
+- HTML
+- CSS
+- JavaScript (DOM Manipulation)
+
+## ✨ Features
+- Add a task with Enter key or "Add Task" button
+- Edit tasks using edit icon
+- Mark tasks as complete/incomplete with toggle
+- Delete tasks with trash icon
+- All actions update dynamically on the screen
+
+## 🔗 GitHub Repository
+https://github.com/atasneem996/To-Do-List
